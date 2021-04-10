@@ -1,0 +1,241 @@
+
+@media only screen and(max-width:1080px){
+    img{
+        width: 250px;
+        height: 250px;
+    }
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:white;
+    margin: 0px;
+    padding: 0px;
+
+    
+ }
+ #nav{
+     background-color:#F7F8F9;
+     display: flex;
+ }
+ #olx{
+    text-align: left;
+
+ }
+ #png{
+     margin: 7px;
+     width: 300px;
+     height: 50px;
+     background-color: white;     
+ }
+ #pngImg{
+    margin-left:-250px;
+ }
+ #nameCountry{
+    font-size: 22px;
+    margin-top: 12px;
+    margin-left: 50px;
+    position: absolute;
+ }
+ #btnn{
+    padding: 4px;
+    margin: 6px;
+    width: 750px;
+    height: 50px;
+    background-color: white;
+    font-size: 12pt;
+    
+}
+.search{
+    margin-top: 6px;
+    margin-left: -6px;
+}
+.log{
+    margin-left: 12px;
+    margin-top: 14px;
+    text-decoration: underline;
+    
+}
+.sell{
+    height: 40px;
+     width: 90px;
+     font-size:20px;
+     border-radius: 30px;
+     border-width: 5px;
+     border-top-color: aqua;
+     border-right-color: rgb(16, 16, 235);
+     border-left-color:rgba(248, 248, 110, 0.952); 
+     border-bottom-color: rgb(105, 105, 247);
+     margin-left: 12px;
+     margin-top: 14px;
+
+}
+.navbar{
+    list-style: none;
+    display: flex; 
+    font-size: 16px;
+    color: black;
+    
+    
+}
+.textli{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+    li{ 
+        list-style: none;
+        display: inline;
+        margin: 70px 10px 10px 10px;
+        font-size: 15px;
+        
+    }
+    .yellow>h4>p{
+        border-left: yellow;
+    }
+
+    #head{
+        padding-bottom: 10px;
+        font-weight: normal;
+        font-size: 25px;
+        background-color: #EBEEEF; 
+    }
+    #cBased{
+        display: flex;
+        margin-top: -25px;
+        justify-content: space-around;
+        background-color: #EBEEEF;
+        padding-bottom: 15px;
+    }
+    .bb{
+        background-color: white;
+    }
+    #inline{
+        display:inline-block;
+    }
+    #firstcard{
+         display: flex;
+         text-align: center; 
+         margin-top: 20px;
+         margin-right: 50px;
+         margin-left: 50px;
+         margin-bottom: 20px;
+    }
+    #fresh{
+        margin-left: 50px;
+        font-weight: normal;
+        font-size: 25px; 
+
+    } 
+    
+    #secondcard{
+        
+        justify-content: space-around;
+        display: flex;
+         text-align: left; 
+         margin-top: 20px;
+         margin-right: 50px;
+         margin-left: 50px;
+         margin-bottom: 20px;
+
+    }
+    #thirdcard{
+        justify-content: space-around;
+        display: flex;
+        text-align: left; 
+        margin-top: 20px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+    #selling{
+        background-color: #3A77FF;
+        color: white;
+        text-align: center;
+    }
+    #start{
+        background-color: #3A77FF;
+        border-color: white;
+        color: white;
+        padding: 10px 80px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 150px;
+         border-color: 4px solid white;
+        justify-content: space-around;
+    }
+    #fourthcard{
+        display: flex;
+        justify-content: space-around;
+        text-align: left; 
+        margin-top: 20px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+    #fifthcard{
+        justify-content: space-around;
+        display: flex;
+        text-align: left; 
+        margin-top: 20px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+    #sixthcard{
+        justify-content: space-around;
+        display: flex;
+        text-align: left; 
+        margin-top: 20px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+    #seventhcard{
+        display: flex;
+        text-align: left;
+    }
+    #moreone{
+        text-align: center;
+    }
+    #more{
+        background-color: white;
+        border: 2px solid black;
+        color: black;
+        padding: 15px 20px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-size: 16px;
+        display: inline-block;
+        font-weight: bold; 
+        
+    }
+    .footer{
+        display: flex;
+        background-color: #F7F8F9;
+        margin-top: 20px;
+    }
+    #footertwo{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    #endfooter{
+        background-color: #002F34;
+        width: 100%;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+    } 
+    #endfooter > h5 {
+        display: inline;
+    }
+    h5 > p{
+        display: inline;
+    }
+   
+
+
